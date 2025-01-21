@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'helloworld';
+  condition=true;
+  number=123;
+  source="assets/image.png";
+  nameListe=['Ahmed', 'Imen','Ali'];
 }
